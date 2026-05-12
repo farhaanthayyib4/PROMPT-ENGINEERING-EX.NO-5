@@ -1,5 +1,5 @@
-NAME : Noorul aslina M 
-REGISTER NUMBER: 212223050033
+NAME : FARHAAN THAYYIB L
+REGISTER NUMBER: 212225230069
 
 Comparative Analysis of Different Types of Prompting Patterns and Explanation with Various Test Scenarios
 
